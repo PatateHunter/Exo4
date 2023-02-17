@@ -8,6 +8,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        // manque de temps, c'est sommaire
         CsvFileInput input = new CsvFileInput();
         var result = input.parse("/home/chtitski_icha/RiderProjects/Exo4/Exo4/file/csv.txt");
 
@@ -20,16 +21,6 @@ class Program
         ConsoleOutput consoleOutput = new ConsoleOutput();
         consoleOutput.print(formattedResult);
         
-
-        /*  for (int i = 0; i < result.Length; i++)
-          {
-              if (i == 0)
-              {
-                  Console.WriteLine(result[i]);
-                  continue;
-              }
-              Console.WriteLine(args[0] + result[i] + "(=" +  addedNumbers[i-1]  + ")" );
-          }*/
-
+        
     }
 }
