@@ -1,0 +1,15 @@
+/home/chtitski_icha/RiderProjects/Exo4/Exo4/bin/Debug/net6.0/Exo4
+/home/chtitski_icha/RiderProjects/Exo4/Exo4/bin/Debug/net6.0/Exo4.deps.json
+/home/chtitski_icha/RiderProjects/Exo4/Exo4/bin/Debug/net6.0/Exo4.runtimeconfig.json
+/home/chtitski_icha/RiderProjects/Exo4/Exo4/bin/Debug/net6.0/Exo4.dll
+/home/chtitski_icha/RiderProjects/Exo4/Exo4/bin/Debug/net6.0/Exo4.pdb
+/home/chtitski_icha/RiderProjects/Exo4/Exo4/obj/Debug/net6.0/Exo4.csproj.AssemblyReference.cache
+/home/chtitski_icha/RiderProjects/Exo4/Exo4/obj/Debug/net6.0/Exo4.GeneratedMSBuildEditorConfig.editorconfig
+/home/chtitski_icha/RiderProjects/Exo4/Exo4/obj/Debug/net6.0/Exo4.AssemblyInfoInputs.cache
+/home/chtitski_icha/RiderProjects/Exo4/Exo4/obj/Debug/net6.0/Exo4.AssemblyInfo.cs
+/home/chtitski_icha/RiderProjects/Exo4/Exo4/obj/Debug/net6.0/Exo4.csproj.CoreCompileInputs.cache
+/home/chtitski_icha/RiderProjects/Exo4/Exo4/obj/Debug/net6.0/Exo4.dll
+/home/chtitski_icha/RiderProjects/Exo4/Exo4/obj/Debug/net6.0/refint/Exo4.dll
+/home/chtitski_icha/RiderProjects/Exo4/Exo4/obj/Debug/net6.0/Exo4.pdb
+/home/chtitski_icha/RiderProjects/Exo4/Exo4/obj/Debug/net6.0/Exo4.genruntimeconfig.cache
+/home/chtitski_icha/RiderProjects/Exo4/Exo4/obj/Debug/net6.0/ref/Exo4.dll
